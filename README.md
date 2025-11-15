@@ -1,6 +1,5 @@
-## Description
 <p align="center">
-  <img src="assets/images/logo.png" width="300" alt="App Logo">
+  <img src="assets/images/logo.png" width="200" alt="App Logo">
 </p>
 
 ![Python](https://img.shields.io/badge/python-3.13-blue)
