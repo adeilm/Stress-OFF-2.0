@@ -8,6 +8,9 @@
 ---
 
 ## Description
+<p align="center">
+  <img src="assets/images/logo.png" width="200" alt="App Logo">
+</p>
 
 **StressOFF** est une application mobile intelligente dédiée au **bien-être et à la gestion du stress**, combinant :
 
