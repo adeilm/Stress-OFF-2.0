@@ -6,12 +6,12 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
-# 🌿 StressOFF  
+<p align="left">
+  <img src="assets/images/logo.png" width="100" alt="App Logo">
+</p>
 ### Your Intelligent Companion for Stress Management, Nutrition, and Daily Well-Being  
 
-<p align="center">
-  <img src="assets/images/logo.png" width="200" alt="App Logo">
-</p>
+
 
 **StressOFF** is a smart mobile application designed to enhance well-being and stress management by combining:
 
