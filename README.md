@@ -21,28 +21,25 @@ The app helps users:
 
 ---
 
+
 # 🚀 Key Features (with UI Screenshots)
 
-## 1. Smart Meal Analysis (AI-Powered)
+
+## 1. Authentication & Profile
+
+### 🔐 Authentication (Signup / Login)
 
 <table>
 <tr>
 <td width="55%">
 
-### 🍽️ Smart Meal Analysis  
-StressOFF allows users to take a photo of their meal and instantly receive:  
-- Ingredient detection  
-- Nutritional estimation  
-- Personalized dietary advice  
-
-**Two analysis modes:**  
-- **Meal Analysis** — saves the evaluation to Firebase  
-- **Quick Analysis** — instant analysis without saving  
+Users can easily create an account and securely log in using Firebase Authentication.  
+This step initializes user preferences and prepares personalized tracking.
 
 </td>
 <td width="45%">
 
-<img src="assets/screenshots/meals.png" width="260" alt="Meals Page">
+<img src="assets/screenshots/signup.png" width="220" alt="Signup Page">
 
 </td>
 </tr>
@@ -50,25 +47,23 @@ StressOFF allows users to take a photo of their meal and instantly receive:
 
 ---
 
-## 2. Daily Summary & Personalized Recommendations
+## 2. Calendar Integration
 
 <table>
 <tr>
 <td width="55%">
 
-### 📊 Daily Summary  
-Each evening, the app generates a personalized recap including:  
-- Total calorie intake  
-- Nutritional balance  
-- Excesses and deficiencies  
-- Tailored recommendations for the next day  
+### 📅 Calendar-Aware Insights  
+StressOFF syncs with the device calendar to adjust recommendations based on daily workload:  
+- **Busy days** → energizing meals, hydration, stress-relief breaks  
+- **Light days** → lighter meals, sleep optimization, recovery tips  
 
-This helps users maintain healthy and consistent eating habits.
+Guidance always adapts to the user's lifestyle and schedule.
 
 </td>
 <td width="45%">
 
-<img src="assets/screenshots/history.png" width="260" alt="History Page">
+<img src="assets/screenshots/calendar.png" width="260" alt="Calendar Integration">
 
 </td>
 </tr>
@@ -103,23 +98,25 @@ The system sends **instant alerts** when anomalies appear, along with actionable
 
 ---
 
-## 4. Calendar Integration
+## 4. Daily Summary & Personalized Recommendations
 
 <table>
 <tr>
 <td width="55%">
 
-### 📅 Calendar-Aware Insights  
-StressOFF syncs with the device calendar to adjust recommendations based on daily workload:  
-- **Busy days** → energizing meals, hydration, stress-relief breaks  
-- **Light days** → lighter meals, sleep optimization, recovery tips  
+### 📊 Daily Summary  
+Each evening, the app generates a personalized recap including:  
+- Total calorie intake  
+- Nutritional balance  
+- Excesses and deficiencies  
+- Tailored recommendations for the next day  
 
-Guidance always adapts to the user's lifestyle and schedule.
+This helps users maintain healthy and consistent eating habits.
 
 </td>
 <td width="45%">
 
-<img src="assets/screenshots/calendar.png" width="260" alt="Calendar Integration">
+<img src="assets/screenshots/history.png" width="260" alt="History Page">
 
 </td>
 </tr>
@@ -151,26 +148,30 @@ A smart conversational assistant offering:
 
 ---
 
-## 6. Authentication & Profile
-
-### 🔐 Authentication (Signup / Login)
+## 6. Smart Meal Analysis (AI-Powered)
 
 <table>
 <tr>
 <td width="55%">
+### 🍽️ Smart Meal Analysis  
+StressOFF allows users to take a photo of their meal and instantly receive:  
+- Ingredient detection  
+- Nutritional estimation  
+- Personalized dietary advice  
 
-Users can easily create an account and securely log in using Firebase Authentication.  
-This step initializes user preferences and prepares personalized tracking.
+**Two analysis modes:**  
+- **Meal Analysis** — saves the evaluation to Firebase  
+- **Quick Analysis** — instant analysis without saving  
 
 </td>
 <td width="45%">
 
-<img src="assets/screenshots/signup.png" width="220" alt="Signup Page">
-<img src="assets/screenshots/login.png" width="220" alt="Login Page">
+<img src="assets/screenshots/meals.png" width="260" alt="Meals Page">
 
 </td>
 </tr>
 </table>
+
 
 ---
 
