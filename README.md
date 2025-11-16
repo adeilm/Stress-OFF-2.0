@@ -5,13 +5,11 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
----
 <p align="left">
   <img src="assets/images/logo.png" width="100" alt="App Logo">
 </p>
-### Your Intelligent Companion for Stress Management, Nutrition, and Daily Well-Being  
 
-
+### 🌿 Your Intelligent Companion for Stress Management, Nutrition, and Daily Well-Being 
 
 **StressOFF** is a smart mobile application designed to enhance well-being and stress management by combining:
 
