@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="assets/images/logo.png" width="200" alt="App Logo">
-</p>
-Your Intelligent Companion for Stress Management, Nutrition, and Daily Well-Being
+🌿 **StressOFF**
+**Your Intelligent Companion for Stress Management, Nutrition, and Daily Well-Being**
 <p align="center"> <img src="assets/images/logo.png" width="200" alt="App Logo"> </p>
 
 ---
