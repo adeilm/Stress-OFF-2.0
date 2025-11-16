@@ -28,7 +28,7 @@ The app helps users:
 - The AI identifies ingredients, estimates nutritional values, and generates personalized dietary suggestions.  
 - Two usage modes:  
   - **Meal Analysis** — saves the evaluation to Firebase  
-  - **Try Analysis** — instant analysis without saving  
+  - **Quick Analysis** — instant analysis without saving  
 
 
 ### **2. Daily Summary & Personalized Recommendations**  
