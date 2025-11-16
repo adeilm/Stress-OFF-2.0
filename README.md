@@ -34,7 +34,7 @@ Users can easily create an account and securely log in using Firebase Authentica
 This step initializes user preferences and prepares personalized tracking.
 
 <p align="center">
-  <img src="assets/images/Login_SignUp.png" width="350" height:auto alt="Dashboard">
+  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
 ---
