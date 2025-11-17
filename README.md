@@ -20,7 +20,9 @@ The app helps users:
 - Receive actionable, context-aware guidance powered by an AI coach  
 
 
+
 ---
+
 
 
 # 🚀 Key Features
@@ -138,13 +140,19 @@ StressOFF allows users to take a photo of their meal and instantly receive:
 
 
 
-### 👤 User Profile
+### 8. 👤 User Profile
 
 
 The Profile page displays personal information, health preferences, and allows users to adjust their stress or nutrition goals.
 
+<p align="center">
+  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
+</p>
+
+
 
 ---
+
 
 
 ## 🛠 Tech Stack  
@@ -159,7 +167,9 @@ The Profile page displays personal information, health preferences, and allows u
 | **Containerization** | Docker (backend containerization & deployment) |
 
 
+
 ---
+
 
 
 ## ⚙️ Installation & Run (Backend)
