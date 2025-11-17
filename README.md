@@ -5,6 +5,10 @@
 ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+## Abstract
+
+StressOFF is an end-to-end AI wellness companion that unifies nutritional analysis, physiological monitoring, and context-aware guidance into a single, cloud-first experience. The mobile app pairs with wearables to track real-time health signals, analyzes meals with vision models, and layers calendar context to personalize recommendations. Azure-hosted microservices, backed by Firebase authentication and storage, ensure a secure, scalable pipeline, while an AI coach delivers actionable insights that help users anticipate stress peaks, sustain healthy habits, and stay engaged.
+
 <p align="left">
   <img src="assets/images/logo.png" width="100" alt="App Logo">
 </p>
@@ -30,16 +34,22 @@ The app helps users:
 
 This project was developed as part of the **IEEE Computer Society Tunisian Annual Meeting 2.0 (CSTAM 2.0)** Technical Challenge.  
 
-**Challenge Scope & Objective:**  
-- Explore cloud computing, generative AI, and secure mobile/wearable innovation.  
-- Develop a cloud-native, GenAI-powered mobile/wearable app delivering personalized health and nutrition guidance.  
-- Ensure data privacy, ethical AI integration, and scalable cloud infrastructure.  
+**Challenge Scope & Objective:**
+- Explore cloud computing, generative AI, and secure mobile/wearable innovation.
+- Develop a cloud-native, GenAI-powered mobile/wearable app delivering personalized health and nutrition guidance.
+- Ensure data privacy, ethical AI integration, and scalable cloud infrastructure.
 
-**Key Features Addressed in StressOFF:**  
-- Real-time health analysis and wellness prediction  
-- Personalized fitness and dietary recommendations  
-- Cloud-integrated microservices deployed on Azure  
+**Key Features Addressed in StressOFF:**
+- Real-time health analysis and wellness prediction
+- Personalized fitness and dietary recommendations
+- Cloud-integrated microservices deployed on Azure
 - Secure data processing and privacy-preserving mechanisms
+
+### Why StressOFF addresses the challenge
+- **Unified health intelligence:** Combines HR/HRV/SpO₂, sleep, and meal insights to predict stress and adapt guidance in real time.
+- **Cloud-native delivery:** Azure-deployed microservices with Dockerized services ensure reproducibility and rapid scaling for the competition setting.
+- **Responsible AI usage:** Firebase-authenticated user flows, privacy-focused data handling, and explainable recommendations keep trust at the center.
+- **Engaging user experience:** An AI coach, dynamic alerts, and calendar-aware nudges maintain high adherence and measurable well-being outcomes.
 
 
 ---
