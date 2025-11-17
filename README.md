@@ -283,6 +283,18 @@ http://health-service-eu.norwayeast.azurecontainer.io:8000
 http://meal-service-eu.norwayeast.azurecontainer.io:8000
 ```
 
+---
+
+
+## 👥 Team / Contributors
+
+- **Yessine Abdelmaksoud** – Backend & Microservices
+- **Saba Kallel** – Marketing Manager
+- **Oumayma Khlif** – Frontend & Flutter
+- **Eya Zouche** – UI/UX Design
+- **Moheamed Ali Abid** – DevOps & Deployment
+
+
 
 
 
