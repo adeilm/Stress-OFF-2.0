@@ -26,6 +26,8 @@ The app helps users:
 
 ## 🏆 Challenge Participation
 
+<img src="assets/images/ieee.png" alt="IEEE CSTAM 2.0" width="150">
+
 This project was developed as part of the **IEEE Computer Society Tunisian Annual Meeting 2.0 (CSTAM 2.0)** Technical Challenge.  
 
 **Challenge Scope & Objective:**  
@@ -37,13 +39,7 @@ This project was developed as part of the **IEEE Computer Society Tunisian Annua
 - Real-time health analysis and wellness prediction  
 - Personalized fitness and dietary recommendations  
 - Cloud-integrated microservices deployed on Azure  
-- Secure data processing and privacy-preserving mechanisms  
-
-
-![IEEE CSTAM 2.0](assets/images/ieee.png)
-
-
-
+- Secure data processing and privacy-preserving mechanisms
 
 
 ---
