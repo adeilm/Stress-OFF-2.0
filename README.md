@@ -86,7 +86,7 @@ When paired with a smartwatch, StressOFF tracks key physiological metrics:
 The system sends **instant alerts** when anomalies appear, along with actionable advice.
 
 <p align="center">
-  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/healthAlerts.png" width="350" height:"700" alt="Dashboard">
 </p>
 
 
