@@ -213,7 +213,7 @@ This diagram summarizes how StressOFF works end-to-end:
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/username/stressoff.git
+git clone https://github.com/OumaymaKhlif/stressoff.git
 cd stressoff/backend
 pip install -r requirements.txt
 ```
