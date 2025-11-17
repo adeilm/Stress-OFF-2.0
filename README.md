@@ -160,6 +160,20 @@ StressOFF allows users to take a photo of their meal and instantly receive:
   <img src="assets/images/meal.png" width="650" height:"800" alt="Dashboard">
 </p>
 
+## 📜 Meal History
+
+StressOFF keeps track of all previously analyzed meals, allowing users to:
+
+View past meal evaluations
+
+Track nutritional trends over time
+
+Monitor progress and eating habits
+
+<p align="center">
+  <img src="assets/images/meal.png" width="650" height:"800" alt="Dashboard">
+</p>
+
 
 
 ### 8. 👤 User Profile
