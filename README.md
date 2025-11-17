@@ -208,15 +208,27 @@ This diagram summarizes how StressOFF works end-to-end:
 
 <br>
 
-## ⚙️ Installation & Run (Backend)
+## ⚙️ Installation & Run 
+
+### 1. Clone the repo
 
 ```bash
 git clone https://github.com/username/stressoff.git
 cd stressoff/backend
 pip install -r requirements.txt
 
-# Add your OpenRouter API key
-export OPENROUTER_API_KEY="your_api_key"
 
-# Start the backend server
-uvicorn main:app --reload
+### 2. Build Docker images locally
+
+```bash
+# Coach service
+docker build -f coach_service/Dockerfile -t <dockerhub-username>/coach-service:local .
+
+# Health service
+docker build -f health_service/Dockerfile -t <dockerhub-username>/health-service:local .
+
+# Meal service
+docker build -f meal_service/Dockerfile -t <dockerhub-username>/meal-service:local .
+
+
+
