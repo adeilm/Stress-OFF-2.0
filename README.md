@@ -157,6 +157,39 @@ The Profile page displays personal information, health preferences, and allows u
 
 <br>
 
+## 🔁 Workflow Overview
+
+This diagram summarizes how StressOFF works end-to-end:
+
+<p align="center">
+  <img src="assets/architecture/Workflow.png" width="850" alt="System Workflow">
+</p>
+
+### 📱 Mobile App (Flutter)
+- Captures meal photos and smartwatch data.
+- Sends requests to cloud microservices.
+- Displays insights, alerts, and recommendations.
+
+### ☁️ Firebase
+- Manages authentication.
+- Stores meals, summaries, and health logs.
+
+### 🐳 Cloud Microservices (Azure + Docker)
+- Each service is containerized and deployed on Azure:
+  - **meal_service** → AI meal analysis  
+  - **coach_service** → AI coaching & guidance  
+  - **health_service** → HR/HRV/SpO₂ analysis  
+  - **calendar_service** → context from user schedule
+
+### 🤖 OpenRouter AI
+- Vision model analyzes meals.
+- LLM generates recommendations and insights.
+
+### 🔄 Feedback to User
+- The app receives nutrition results, stress alerts, and daily summaries in real time.
+
+<br>
+
 ## 🛠 Tech Stack  
 
 | Layer | Technology |
