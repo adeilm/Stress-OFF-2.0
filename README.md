@@ -18,11 +18,11 @@ The app helps users:
 - Improve recovery and energy levels  
 - Prevent stress and fatigue peaks  
 - Receive actionable, context-aware guidance powered by an AI coach  
-
-
 <br>
+
+
 ---
-<br>
+
 
 
 # 🚀 Key Features
