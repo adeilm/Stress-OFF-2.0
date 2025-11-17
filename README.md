@@ -19,6 +19,7 @@ The app helps users:
 - Prevent stress and fatigue peaks  
 - Receive actionable, context-aware guidance powered by an AI coach  
 
+
 ---
 
 
@@ -36,7 +37,7 @@ This step initializes user preferences and prepares personalized tracking.
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ## 2. Calendar Integration
 
@@ -51,7 +52,7 @@ Guidance always adapts to the user's lifestyle and schedule.
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ## 3. Stress Analysis
 
@@ -67,7 +68,7 @@ It calculates a **Stress Index (0-100)** and provides actionable insights:
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ## 4. Real-Time Physiological Monitoring
 
@@ -85,7 +86,7 @@ The system sends **instant alerts** when anomalies appear, along with actionable
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ## 5. Daily Summary & Personalized Recommendations
 
@@ -102,7 +103,7 @@ This helps users maintain healthy and consistent eating habits.
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ## 6. AI Coach Chatbot
 
@@ -117,7 +118,7 @@ A smart conversational assistant offering:
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ## 7. Smart Meal Analysis (AI-Powered)
 
@@ -135,14 +136,16 @@ StressOFF allows users to take a photo of their meal and instantly receive:
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
 
----
+
 
 ### 👤 User Profile
 
 
 The Profile page displays personal information, health preferences, and allows users to adjust their stress or nutrition goals.
 
+
 ---
+
 
 ## 🛠 Tech Stack  
 
@@ -157,6 +160,7 @@ The Profile page displays personal information, health preferences, and allows u
 
 
 ---
+
 
 ## ⚙️ Installation & Run (Backend)
 
