@@ -136,7 +136,7 @@ StressOFF allows users to take a photo of their meal and instantly receive:
 - **Quick Analysis** — instant analysis without saving  
 
 <p align="center">
-  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/meal.png" width="350" height:"700" alt="Dashboard">
 </p>
 
 
@@ -147,7 +147,7 @@ StressOFF allows users to take a photo of their meal and instantly receive:
 The Profile page displays personal information, health preferences, and allows users to adjust their stress or nutrition goals.
 
 <p align="center">
-  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/Profile.png" width="350" height:"700" alt="Dashboard">
 </p>
 <br>
 
