@@ -25,6 +25,32 @@ The app helps users:
 
 
 <br>
+## 🏆 Challenge Participation
+
+This project was developed as part of the **IEEE Computer Society Tunisian Annual Meeting 2.0 (CSTAM 2.0)** Technical Challenge.  
+
+**Challenge Scope & Objective:**  
+- Explore cloud computing, generative AI, and secure mobile/wearable innovation.  
+- Develop a cloud-native, GenAI-powered mobile/wearable app delivering personalized health and nutrition guidance.  
+- Ensure data privacy, ethical AI integration, and scalable cloud infrastructure.  
+
+**Key Features Addressed in StressOFF:**  
+- Real-time health analysis and wellness prediction  
+- Personalized fitness and dietary recommendations  
+- Cloud-integrated microservices deployed on Azure  
+- Secure data processing and privacy-preserving mechanisms  
+
+**IEEE CSTAM 2.0 Logo / Badge:**  
+![IEEE Logo](https://upload.wikimedia.org/wikipedia/commons/6/6f/IEEE_logo.svg)  
+
+**More Info:** [IEEE CSTAM2.0 Technical Challenge](https://www.ieee.org/)  
+<br>
+
+
+---
+
+
+<br>
 
 # 🚀 Key Features
 
