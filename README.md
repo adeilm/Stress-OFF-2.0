@@ -24,9 +24,9 @@ The app helps users:
 ---
 
 
-## 🏆 Challenge Participation
+## Challenge Participation
 
-<img src="assets/images/ieee.png" alt="IEEE CSTAM 2.0" width="150">
+<img src="assets/images/ieee.png" alt="IEEE CSTAM 2.0" width="100">
 
 This project was developed as part of the **IEEE Computer Society Tunisian Annual Meeting 2.0 (CSTAM 2.0)** Technical Challenge.  
 
