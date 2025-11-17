@@ -37,7 +37,7 @@ Users can easily create an account and securely log in using Firebase Authentica
 This step initializes user preferences and prepares personalized tracking.
 
 <p align="center">
-  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/Login_SignUp.png" width="650" height:"800" alt="Dashboard">
 </p>
 
 
@@ -68,7 +68,7 @@ It calculates a **Stress Index (0-100)** and provides actionable insights:
 - Instant notifications for high stress or anomalies  
 
 <p align="center">
-  <img src="assets/images/stress.png" width="500" height:"700" alt="Dashboard">
+  <img src="assets/images/stress.png" width="650" height:"800" alt="Dashboard">
 </p>
 
 
@@ -86,7 +86,7 @@ When paired with a smartwatch, StressOFF tracks key physiological metrics:
 The system sends **instant alerts** when anomalies appear, along with actionable advice.
 
 <p align="center">
-  <img src="assets/images/healthAlerts.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/healthAlerts.png" width="650" height:"800" alt="Dashboard">
 </p>
 
 
@@ -103,7 +103,7 @@ Each evening, the app generates a personalized recap including:
 This helps users maintain healthy and consistent eating habits.
 
 <p align="center">
-  <img src="assets/images/HealthSummary.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/HealthSummary.png" width="650" height:"800" alt="Dashboard">
 </p>
 
 
@@ -118,7 +118,7 @@ A smart conversational assistant offering:
 - Context-aware suggestions based on meals, health metrics, and daily plan  
 
 <p align="center">
-  <img src="assets/images/AICoach.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/AICoach.png" width="650" height:"800" alt="Dashboard">
 </p>
 
 
@@ -136,7 +136,7 @@ StressOFF allows users to take a photo of their meal and instantly receive:
 - **Quick Analysis** — instant analysis without saving  
 
 <p align="center">
-  <img src="assets/images/meal.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/meal.png" width="650" height:"800" alt="Dashboard">
 </p>
 
 
@@ -147,7 +147,7 @@ StressOFF allows users to take a photo of their meal and instantly receive:
 The Profile page displays personal information, health preferences, and allows users to adjust their stress or nutrition goals.
 
 <p align="center">
-  <img src="assets/images/Profile.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/Profile.png" width="650" height:"800" alt="Dashboard">
 </p>
 <br>
 
