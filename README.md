@@ -149,12 +149,13 @@ The Profile page displays personal information, health preferences, and allows u
 <p align="center">
   <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
 </p>
-
+<br>
 
 
 ---
 
 
+<br>
 
 ## 🛠 Tech Stack  
 
@@ -166,12 +167,13 @@ The Profile page displays personal information, health preferences, and allows u
 | **AI Models** | Qwen Vision (image), Qwen / Meta-Llama (text) via OpenRouter API |
 | **Cloud & Deployment** | Microsoft Azure (App Service, Storage, Monitoring) |
 | **Containerization** | Docker (backend containerization & deployment) |
-
+<br>
 
 
 ---
 
 
+<br>
 
 ## ⚙️ Installation & Run (Backend)
 
