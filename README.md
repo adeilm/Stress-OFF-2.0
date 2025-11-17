@@ -216,7 +216,7 @@ This diagram summarizes how StressOFF works end-to-end:
 git clone https://github.com/username/stressoff.git
 cd stressoff/backend
 pip install -r requirements.txt
-
+```
 
 ### 2. Build Docker images locally
 
@@ -229,6 +229,61 @@ docker build -f health_service/Dockerfile -t <dockerhub-username>/health-service
 
 # Meal service
 docker build -f meal_service/Dockerfile -t <dockerhub-username>/meal-service:local .
+```
+
+### 3. Test locally (optional)
+
+```bash
+docker run --rm -p 8000:8000 --env-file .env <dockerhub-username>/coach-service:local
+```
+### 4. Push images to Docker Hub
+
+```bash
+docker login --username <dockerhub-username>
+
+docker tag <dockerhub-username>/coach-service:local <dockerhub-username>/coach-service:v1.0.0
+docker push <dockerhub-username>/coach-service:v1.0.0
+
+# Repeat the same steps for the other services (health-service, meal-service, calender-service)
+```
+
+### 5. Deploy to Azure Container Instances (ACI)
+
+```bash
+az login
+az account set --subscription <subscription-id>
+az group create --name stress-rg --location norwayeast
+
+# Set environment variables
+$envVars = @("OPENROUTER_API_KEY=<your_api_key>")
+
+# Deploy coach service
+az container create `
+  --resource-group stress-rg `
+  --name coach-service-ci `
+  --image <dockerhub-username>/coach-service:v1.0.0 `
+  --dns-name-label coach-service-eu `
+  --ports 8000 `
+  --registry-login-server index.docker.io `
+  --registry-username <dockerhub-username> `
+  --registry-password <dockerhub-token> `
+  --environment-variables $envVars `
+  --os-type Linux --cpu 1 --memory 1.5 --location norwayeast
+
+# Repeat the same steps for the other services (health-service, meal-service, calender-service)
+```
+
+### 6. Connect the App
+
+```bash
+Update lib/services/api_config.dart or pass --dart-define to point to your deployed services:
+
+http://coach-service-eu.norwayeast.azurecontainer.io:8000
+http://health-service-eu.norwayeast.azurecontainer.io:8000
+http://meal-service-eu.norwayeast.azurecontainer.io:8000
+```
+
+
 
 
 
