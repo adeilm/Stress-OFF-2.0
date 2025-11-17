@@ -103,7 +103,7 @@ Each evening, the app generates a personalized recap including:
 This helps users maintain healthy and consistent eating habits.
 
 <p align="center">
-  <img src="assets/images/Login_SignUp.png" width="350" height:"700" alt="Dashboard">
+  <img src="assets/images/HealthSummary.png" width="350" height:"700" alt="Dashboard">
 </p>
 
 
